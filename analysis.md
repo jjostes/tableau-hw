@@ -19,18 +19,20 @@ To show popularity, station locations are marked with circles that increase in s
 
 As one would expect, user activity increases from winter to summer months, while the overall distribution of station popularity remains the same, even between start and end stations. Those that are popular tend to correspond to major NYC landmarks and points of mass transit, but could also be thought of as nodes that most efficiently reduces the amount of walking to a destination for the greater number of destinations. Sort of like cow paths in a university quad.
 
-Stations and corresponding landmark and/or transit (italics):
-Pershing Square North - <b><i>Grand Central Station</i></b>
-E 17th St & Broadway - <b>Union Square Greenmarket</b>
-8th Ave & W 31st St - <b>Madison Square Garden; <i>34th-Penn Station (a few blocks north)</i></b>
-Broadway & E 22nd - <b>Flatiron Building</b>
-Broadway & E 14th - <b><i>14 Street-Union Square Station</i></b>
-West St & Chambers St - <b>possibly Rockefeller Park; One World Trade Center (a few blocks south)</b>
-Broadway & W 60th St - <b>Central Park; Columbus Circle</b>
-Several other stations not in the top 10 border Central Park
-W 21st St & 6th Ave - could not easily determine
-12th Ave & W 40th St - <b><i>Lincoln Tunnel</i></b>
-Christopher St & Greenwich St - could not easily determine. Possible commercial area
+<ul>
+	<li>Stations and corresponding landmark and/or transit (italics):</li>
+	<li>Pershing Square North - <b><i>Grand Central Station</i></b></li>
+	<li>E 17th St & Broadway - <b>Union Square Greenmarket</b></li>
+	<li>8th Ave & W 31st St - <b>Madison Square Garden; <i>34th-Penn Station (a few blocks north)</i></b></li>
+	<li>Broadway & E 22nd - <b>Flatiron Building</b></li>
+	<li>Broadway & E 14th - <b><i>14 Street-Union Square Station</i></b></li>
+	<li>West St & Chambers St - <b>possibly Rockefeller Park; One World Trade Center (a few blocks south)</b></li>
+	<li>Broadway & W 60th St - <b>Central Park; Columbus Circle</b></li>
+	<li>Several other stations not in the top 10 border Central Park</li>
+	<li>W 21st St & 6th Ave - could not easily determine</li>
+	<li>12th Ave & W 40th St - <b><i>Lincoln Tunnel</i></b></li>
+	<li>Christopher St & Greenwich St - could not easily determine. Possible commercial area</li>
+</ul>
 
 <ins>Dashboard 2 - Summer Weekday Traffic For Subscribers</ins>
 
@@ -65,9 +67,9 @@ One thing I found interesting was the increased activity along Park Ave. during 
 As with Dashboard 2, marketing decisions could be made to try and increase using bikes for getting to leisure activities (e.g. images of Central Park, the waterfront), or as leisure in itself. It can also provide an estimate for what load to expect of future events, be it fairs, parades, etc. 
 
 Files used from "https://www.citibikenyc.com/system-data"https://www.citibikenyc.com/system-data:
-201812-citibike-tripdata.csv
-201901-citibike-tripdata.csv
-201902-citibike-tripdata.csv
-201906-citibike-tripdata.csv
-201907-citibike-tripdata.csv
-201908-citibike-tripdata.csv
+201812-citibike-tripdata.csv</br>
+201901-citibike-tripdata.csv</br>
+201902-citibike-tripdata.csv</br>
+201906-citibike-tripdata.csv</br>
+201907-citibike-tripdata.csv</br>
+201908-citibike-tripdata.csv</br>
