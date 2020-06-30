@@ -2,7 +2,12 @@
 
 Taleau Workbook: https://public.tableau.com/profile/john.jostes#!/vizhome/tableau-hw_15931354882510/Tableau-challenge
 
-data_manipulations.ipynb is the jupyter notebook used to combine and clean datasets
+<b>Files</b>
+data_manipulations.ipynb
+analysis.md
+
+Couldn't upload data source, which exceeded Git-LFS data restrictions by 150%
+If needed for grading, the following files can be passed through my jupyter notebook.
 
 Files used from https://www.citibikenyc.com/system-data: </br>
 201812-citibike-tripdata.csv </br>
