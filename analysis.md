@@ -1,8 +1,8 @@
-<h5>John Jostes</h5>
-<h5>6/18/20</h5>
+<h4>John Jostes</h4>
+<h4>6/18/20</h4>
 
 
-<h5>Tableau Homework - Citi Bike Data Analysis</h5>
+<h4>Tableau Homework - Citi Bike Data Analysis</h4>
 
 
 <ins>Data Exploration</ins>
