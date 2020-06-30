@@ -2,8 +2,8 @@
 
 Taleau Workbook: https://public.tableau.com/profile/john.jostes#!/vizhome/tableau-hw_15931354882510/Tableau-challenge
 
-<b>Files</b>
-data_manipulations.ipynb
+<b>Files</b></br>
+data_manipulations.ipynb</br>
 analysis.md
 
 Couldn't upload data source, which exceeded Git-LFS data restrictions by 150%
