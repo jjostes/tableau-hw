@@ -19,8 +19,8 @@ To show popularity, station locations are marked with circles that increase in s
 
 As one would expect, user activity increases from winter to summer months, while the overall distribution of station popularity remains the same, even between start and end stations. Those that are popular tend to correspond to major NYC landmarks and points of mass transit, but could also be thought of as nodes that most efficiently reduces the amount of walking to a destination for the greater number of destinations. Sort of like cow paths in a university quad.
 
+Stations and corresponding landmark and/or transit (italics):
 <ul>
-	<li>Stations and corresponding landmark and/or transit (italics):</li>
 	<li>Pershing Square North - <b><i>Grand Central Station</i></b></li>
 	<li>E 17th St & Broadway - <b>Union Square Greenmarket</b></li>
 	<li>8th Ave & W 31st St - <b>Madison Square Garden; <i>34th-Penn Station (a few blocks north)</i></b></li>
