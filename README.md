@@ -2,12 +2,9 @@
 
 Taleau Workbook: https://public.tableau.com/profile/john.jostes#!/vizhome/tableau-hw_15931354882510/Tableau-challenge
 
-<b>Files</b></br>
-data_manipulations.ipynb</br>
-analysis.md
+![map]
 
-Couldn't upload data source, which exceeded Git-LFS data restrictions by 150%
-If needed for grading, the following files can be passed through my jupyter notebook.
+data_manipulations.ipynb is the jupyter notebook used to combine and clean datasets
 
 Files used from https://www.citibikenyc.com/system-data: </br>
 201812-citibike-tripdata.csv </br>
@@ -16,3 +13,6 @@ Files used from https://www.citibikenyc.com/system-data: </br>
 201906-citibike-tripdata.csv </br>
 201907-citibike-tripdata.csv </br>
 201908-citibike-tripdata.csv </br>
+
+<!-- IMG LINK -->
+[map]: https://github.com/jjostes/tableau-hw/blob/master/example.png
